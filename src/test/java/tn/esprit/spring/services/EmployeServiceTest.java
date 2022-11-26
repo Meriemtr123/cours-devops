@@ -26,7 +26,10 @@ public void listerEmployéTest () {
 List<String> listEmp = es.getAllEmployeNamesJPQL();
 assertEquals (listEmp.size(),1);
 //assertEquals(listEmp.size(), 1);
-//comment
+
+
+//comment2
+
 }
 
 }
